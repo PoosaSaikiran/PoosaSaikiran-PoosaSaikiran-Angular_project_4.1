@@ -1,7 +1,7 @@
 # Output
 [Stackblitz worke station output](https://angular-x9fgwn-fwiks2.stackblitz.io)
 
-# ProjectName
+# Angular_project_4.1
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
